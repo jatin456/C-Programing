@@ -2,8 +2,7 @@
 #include<math.h>
 int main()
 {
-	int m,n,sum=0;
-	float average,a;	
+	int m,n,sum=0;	
 	printf("Enter the value of row: ");
 	scanf("%d",&m);
 	printf("Enter the value of column: ");
